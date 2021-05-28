@@ -11,7 +11,7 @@ It is a good example to follow a memoization recipe presented in the video.
 
 If interested please take a look at the associated post in my blig:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/05/28/can-sum/
 
 Remember that one of the best ways to learn is to read and experiment.
 
